@@ -89,9 +89,6 @@ I believe in **clarity over complexity**, **learning by doing**, and **building 
 
 ---
 
-<img src="https://raw.githubusercontent.com/GaganPaul/GaganPaul/output/snake.svg" alt="Snake animation" />
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Build.+Learn.+Adapt.+Evolve." alt="Typing SVG" />
 </div>
