@@ -5,11 +5,6 @@
 <h1 align="center">Hi, I'm <span style="color:#0A66C2;">Gagan Paul</span></h1>
 <h3 align="center">Building Intelligent Systems | Exploring AI, Cloud & Blockchain</h3>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" width="400" height="250" />
-</div>
-
-
 ### 🧭 About Me
 
 I’m an MCA student and developer passionate about creating **intelligent, scalable systems** that merge logic, learning, and design.  
